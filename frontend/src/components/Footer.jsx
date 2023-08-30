@@ -6,7 +6,7 @@ export default function Footer() {
             
             <div className="text-center">
                     <h5>
-                        Made  by <a href="https://akshata-ganbote.netlify.app/" style={{textDecoration : "none", color: "red"}}>Priyanshu Gupta</a>
+                        Made  by <a href="https://www.linkedin.com/in/priyanshu-gupta-724443210" style={{textDecoration : "none", color: "red"}}>Priyanshu Gupta</a>
                     </h5>
             </div> 
 
